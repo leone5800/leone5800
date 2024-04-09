@@ -9,7 +9,7 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 
 ## Contato
 
-- **Email:** leonegabrielmarianoContato@gmail.com
+- &#x1F4E7; **Email:** leonegabrielmarianoContato@gmail.com
 
 ## Habilidades Técnicas 💻
 
