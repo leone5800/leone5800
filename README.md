@@ -1,20 +1,20 @@
-*Olá, Meu nome é Leone Gabriel*
----------------------------------------------
-<h3 style="font-family: 'open Sans', sans-serif;" ><sub>Sou um Dev Iniciante a Procura de Emprego e de Aprimorar Minhas Habilidades</h3>
+# Sobre Mim
 
+Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades para aprimorar minhas habilidades.
 
-Áreas de Interesse:
+## Áreas de Interesse
+
 - Banco de Dados SQL
-- HTML,CSS e JavaScript
+- HTML, CSS e JavaScript
 
-  
-*Contato:*
+## Contato
 
-Email:leonegabrielmarianoContato@gmail.com
+- **Email:** leonegabrielmarianoContato@gmail.com
 
+## Habilidades Técnicas 💻
 
-Habilidades Tecnicas &#x1F4BB;
-:
+- Experiência com Banco de Dados SQL
+- Conhecimento em HTML, CSS e JavaScript
 
 
 
