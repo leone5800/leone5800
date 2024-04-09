@@ -5,7 +5,9 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 ## Áreas de Interesse
 
 - Banco de Dados SQL
-- HTML, CSS e JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Contato
 
