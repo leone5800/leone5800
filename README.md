@@ -17,6 +17,10 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 ## Habilidades Técnicas 💻
 <img style="height: 40px; width: 40px; border-radius: 10px;" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt=""> <img style="height: 40px; width: 40px; border-radius: 10px;" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="">
 <img style="height: 40px; width: 40px; border-radius: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="">
+<style>
+   background-image: url(https://th.bing.com/th/id/R.8774cfffdab847aad3e5c4e25a28126e?rik=KSf1Xnehu9Ji6A&pid=ImgRaw&r=0);
+</style>
+
 
 
 
