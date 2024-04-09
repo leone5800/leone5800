@@ -12,14 +12,14 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 - &#x1F4E7; **Email:** leonegabrielmarianoContato@gmail.com
 
 ## Certificações:
-- Ensino medio 
+- Ensino Medio Tecnico Informatica
 
 ## Habilidades Técnicas 💻
 
 - Experiência com Banco de Dados SQL
 - Conhecimento em HTML, CSS e JavaScript
 
-<img style="height: 80px; width: 80px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="">
+<img style="height: 60 px; width: 60px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="">
 
 
 
