@@ -1,2 +1,8 @@
-*Olá, Meu nome e Leone Gabriel*
-&#128512;
+*Olá, Meu nome é Leone Gabriel*
+
+
+Áreas de Interesse:
+- Banco de Dados SQL
+- HTML,CSS e JavaScript
+- 
+
