@@ -9,7 +9,8 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 
 ## Contato
 
-- &#x1F4E7; **Email:** leonegabrielmarianoContato@gmail.com
+- &#x1F4E7; **Email:** leonegab.dev@gmail.com
+- ☎️Telefone: +55 15997541602
 
 ## Certificações:
 - Ensino Medio Tecnico Informatica
