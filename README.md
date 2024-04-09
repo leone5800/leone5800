@@ -6,7 +6,7 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 
 - Banco de Dados SQL
 - HTML, CSS e JavaScript
-<img src="https://th.bing.com/th/id/R.8774cfffdab847aad3e5c4e25a28126e?rik=KSf1Xnehu9Ji6A&pid=ImgRaw&r=0" alt="fundo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+
 ## Contato
 
 - &#x1F4E7; **Email:** leonegabrielmarianoContato@gmail.com
