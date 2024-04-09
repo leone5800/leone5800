@@ -11,8 +11,13 @@
 Email:leonegabrielmarianoContato@gmail.com
 
 
-*Habilidades Tecnicas:*
-Google (Noto Color Emoji - Unicode 15.1)
+*Habilidades Tecnicas &#x1F4BB;
+:*
+
+
+
+
+
 
 
   
