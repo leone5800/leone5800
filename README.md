@@ -12,8 +12,8 @@
 Email:leonegabrielmarianoContato@gmail.com
 
 
-*Habilidades Tecnicas &#x1F4BB;
-:*
+Habilidades Tecnicas &#x1F4BB;
+:
 
 
 
