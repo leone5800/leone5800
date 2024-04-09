@@ -15,7 +15,7 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 
 - Experiência com Banco de Dados SQL
 - Conhecimento em HTML, CSS e JavaScript
-- <a href="https://www.flaticon.com/br/icones-gratis/css" title="css ícones">Css ícones criados por Pixel perfect - Flaticon</a>
+<img src="html-5.png" alt="">
 
 
 
