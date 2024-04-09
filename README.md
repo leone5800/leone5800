@@ -15,7 +15,8 @@ Olá, sou Leone Gabriel, um desenvolvedor iniciante em busca de oportunidades pa
 
 - Experiência com Banco de Dados SQL
 - Conhecimento em HTML, CSS e JavaScript
-<img src="html-5.png" alt="">
+![Uploading image.png…]()
+
 
 
 
